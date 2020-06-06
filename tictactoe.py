@@ -1,6 +1,6 @@
 """
 The quickest and dirtiest approach which can get a two player version of tic tac toe running in the terminal.
-Inspired by Jakedied's Pycon 2012 Talk "Stop Writing Classes"
+Inspired by Jakediederich's Pycon 2012 Talk "Stop Writing Classes"
 """
 
 import numpy as np
